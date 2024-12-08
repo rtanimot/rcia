@@ -1,0 +1,12 @@
+C:\Users\Jay\source\repos\SemesterProjectApp\bin\Debug\SemesterProjectApp.exe.config
+C:\Users\Jay\source\repos\SemesterProjectApp\bin\Debug\SemesterProjectApp.exe
+C:\Users\Jay\source\repos\SemesterProjectApp\bin\Debug\SemesterProjectApp.pdb
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.FormMain.resources
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.FormAdd.resources
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.Properties.Resources.resources
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.csproj.GenerateResource.cache
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.exe
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.pdb
+C:\Users\Jay\source\repos\SemesterProjectApp\obj\Debug\SemesterProjectApp.FormUpdate.resources
